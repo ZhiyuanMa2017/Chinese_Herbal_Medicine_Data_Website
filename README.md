@@ -1,5 +1,5 @@
 # lerriuqs-Chinese_Herbal_Medicine_Data_Website
-Short Semester Course Design
+Short Semester Course Design  
 中药成分数据库构建  
 RDKit + Django   
 1、	结构匹配；  
